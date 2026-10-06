@@ -1,7 +1,7 @@
 <a href="https://talcloud.fr">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-    <img src="./assets/header-light.svg" width="100%" alt="Anthony Donze Satge — CEO de TalCloud, l'hébergement français qui voit grand">
+    <img src="./assets/header-light.svg" width="100%" alt="Anthony Donze-Satge — CEO de TalCloud, l'hébergement français qui voit grand">
   </picture>
 </a>
 
